@@ -85,4 +85,6 @@ git clone https://github.com/Intality/WeatherHistory.git
 
 4. **Run the app:**
 - Hit `F5` to launch.
-Built with passion in Colorado — with a little lightning and a lot of love.
+
+
+-Built with passion in Colorado — with a little lightning and a lot of love.
